@@ -1,4 +1,8 @@
-![image](https://github.com/TemplePHIRE/CPHResearchDay/blob/main/Webp.net-gifmaker.gif)
+![image](https://github.com/TemplePHIRE/CPHResearchDay/blob/main/pil124.gif)
+
+![image](https://github.com/TemplePHIRE/CPHResearchDay/blob/main/pil224.gif)
+
+![image](https://github.com/TemplePHIRE/CPHResearchDay/blob/main/pil324.gif)
 
 
 # Title
