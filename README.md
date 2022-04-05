@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/100893176/161677642-df3129f0-5aec-4e52-a213-78cb28703c7e.png)
+![image](https://github.com/TemplePHIRE/CPHResearchDay/blob/main/Webp.net-gifmaker.gif)
 
 
 # Title
