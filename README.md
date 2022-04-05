@@ -1,13 +1,8 @@
-![image](https://github.com/TemplePHIRE/CPHResearchDay/blob/main/pil124.gif)
-
-![image](https://github.com/TemplePHIRE/CPHResearchDay/blob/main/pil224.gif)
-
-![image](https://github.com/TemplePHIRE/CPHResearchDay/blob/main/pil324.gif)
-
 
 # Title
 Applying Machine Learning Algorithms to Classify Upper Extremity Actions Using Wrist-Worn Sensors: A Proof-of-Concept Study
 
+# Background Video
 [![Background](https://user-images.githubusercontent.com/100893176/161676167-cfe3ac2a-a1ee-4265-b9e2-52719b444a3d.png)](https://www.youtube.com/watch?v=6VEuGwl6hnc&t=1s)
 
 # Purpose
@@ -64,6 +59,14 @@ We annotated all accelerometry data (pre and post) to indicate tasks (e.g., Reac
 - Participants performed lifting (79.7%) tasks most often and isometric (0.3%) tasks least often 
 
 ![image](https://user-images.githubusercontent.com/100893176/161677453-043e8a05-5624-4293-974e-4bb93198aa60.png)
+
+# Results: Model Predictions on 24 Hour Wear Period
+
+![image](https://github.com/TemplePHIRE/CPHResearchDay/blob/main/pil124.gif)
+
+![image](https://github.com/TemplePHIRE/CPHResearchDay/blob/main/pil224.gif)
+
+![image](https://github.com/TemplePHIRE/CPHResearchDay/blob/main/pil324.gif)
 
 
 
